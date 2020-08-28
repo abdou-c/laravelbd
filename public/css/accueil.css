@@ -1,0 +1,26 @@
+body{
+    background-color: #563e91 !important;
+    background: -moz-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+    background: linear-gradient(to 45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%)
+}
+.navbar-nav.ml-auto{
+    background-color: #563e91 !important;
+    background: -moz-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+    background: linear-gradient(to 45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%)
+}
+.dropdown-item{
+    color: #7158e2;
+}
+#navbarDropdown{
+    color: #f5f6fa;
+}
+.navbar-brand{
+    color: #c23616;
+}
+.card-header{
+    color: rgba(13, 17, 198, 0.69);
+    font-family: "Segoe UI";
+    padding: 40px;
+}
